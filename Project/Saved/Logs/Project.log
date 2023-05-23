@@ -4490,3 +4490,477 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2023.05.23-06.45.27:240][734]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.23-06.45.27:240][734]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
 [2023.05.23-06.45.27:240][734]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.45.58:748][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\S214666\OneDrive - The Academy of Interactive Entertainment Ltd\Misc\Desktop\ProjectCSounds\Ambient Radio.wav)
+[2023.05.23-06.46.01:893][ 30]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/Ambient_RadioC1E34F194458E2BB6123179A9DFEE6BB.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/Ambient_Radio.uasset'
+[2023.05.23-06.46.01:906][ 30]AssetCheck: New page: Asset Save: Ambient_Radio
+[2023.05.23-06.46.01:906][ 30]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Sounds/Ambient_Radio.Ambient_Radio
+[2023.05.23-06.46.34:551][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.46.34:666][644]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family17F5FCC434A1AE20E55FF9FA06DBF8E4D.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.46.34:678][644]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.46.34:678][644]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.47.00:396][623]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.47.00:467][623]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.47.00:467][623]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.47.00:468][623]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.47.00:514][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.23-06.47.00:718][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.47.00:834][639]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family18A8778074241C478CEFDFABC3C3EB1DD.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.47.00:849][639]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.47.00:849][639]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.04:241][964]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.48.04:299][964]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.48.04:299][964]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.48.04:300][964]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.48.04:350][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.05.23-06.48.13:674][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.13:793][936]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family1C19D493D411EB58046C0B88993E302E8.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.13:807][936]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.13:807][936]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.18:239][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.18:357][425]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family12AACC8AF43915EA1F975FCA1318F7A90.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.18:370][425]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.18:370][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.26:828][363]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.48.26:881][363]LogClass: Warning: Type mismatch in Light Ref of BP_Family1_C - Previous (ArrayProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.05.23-06.48.26:881][363]LogClass: Warning: Type mismatch in Light Ref of BP_Child_C - Previous (ArrayProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.05.23-06.48.26:881][363]LogClass: Warning: Type mismatch in Light Ref of BP_Father1_C - Previous (ArrayProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.05.23-06.48.26:881][363]LogClass: Warning: Type mismatch in Light Ref of BP_Mother1_C - Previous (ArrayProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.05.23-06.48.26:887][363]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.48.26:888][363]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.48.26:888][363]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.48.26:937][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.23-06.48.27:973][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.28:090][474]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family1EAF9D35E4E25C1720EA23EA9DA8171E2.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.28:106][474]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.28:106][474]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.28:440][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.28:568][510]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family15855C48F423328BC8A0424992CD861E0.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.28:581][510]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.28:581][510]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.30:343][709]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2023.05.23-06.48.30:421][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.05.23-06.48.30:450][709]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevelCB46FDE347CA9F1C48321EA282772B85.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.48.30:469][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.48.30:491][709]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltDataE76FDEF248D862B8B9F125A9A3AE993B.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.48.30:505][709]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.48.30:505][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.48.30:505][709]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.48.54:107][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.54:223][452]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family1CC07E08C406EA678AF6F8CB2D71BD7E9.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.54:237][452]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.54:237][452]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.54:689][501]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.48.54:767][501]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.48.54:767][501]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.48.54:767][501]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.48.54:820][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.05.23-06.48.55:091][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.55:243][522]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family17D89BE804050A1F23CF6D08752497C40.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.55:259][522]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.55:259][522]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.55:474][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.48.55:615][542]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family14CC3E7774D17D5083F4AADADFCE1C831.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.48.55:629][542]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.48.55:629][542]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.48.56:570][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2023.05.23-06.48.56:738][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.05.23-06.48.56:766][650]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel3616C5F643784435662B2CA45E91E84C.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.48.56:783][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.48.56:803][650]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltDataDFFA1EC341C0329A0C4EDF9F827A1B96.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.48.56:818][650]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.48.56:818][650]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.48.56:818][650]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.49.04:060][441]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Father1_2.PaperSprite)
+[2023.05.23-06.49.05:752][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.23-06.49.05:781][625]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevelD3A9869A45F3BC49849DA7A5507BD5EA.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.49.05:797][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.49.05:818][625]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltDataADC2417A49EF4877A62C0DAECFCD4886.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.49.05:834][625]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.49.05:834][625]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.49.05:834][625]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.49.06:950][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.05.23-06.49.07:944][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2023.05.23-06.49.34:955][979]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.49.35:014][979]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.49.35:015][979]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.49.35:015][979]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.49.35:060][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.05.23-06.49.35:560][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.49.35:676][ 26]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family156F103EE4EB3C5C0C6F35D831C77BD99.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.49.35:692][ 26]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.49.35:692][ 26]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.49.56:039][356]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.49.56:100][356]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.49.56:100][356]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.49.56:100][356]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.49.56:147][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.23-06.49.56:744][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.49.56:861][417]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family1FEA8AFBC42E220253F488791F0B17993.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.49.56:878][417]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.49.56:878][417]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.50.05:761][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2023.05.23-06.50.05:945][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.05.23-06.50.05:975][453]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel3B2EE62A4B12E3E34793DBBB8D369E50.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.50.05:994][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.50.06:018][453]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltData017215BD4C05E58AA8DD1797DB68B14F.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.50.06:033][453]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.50.06:033][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.50.06:033][453]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.50.17:155][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.23-06.50.17:184][714]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevelFAC183104414371EB861EEBB2C37FD8B.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.50.17:200][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.50.17:220][714]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltDataD3BF9BB84DC9E6DBBC1AE397ED4925A6.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.50.17:235][714]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.50.17:235][714]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.50.17:235][714]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.50.17:735][770]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2023.05.23-06.50.18:557][852]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-06.50.18:565][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-06.50.18:565][852]PIE: New page: PIE session: MainLevel (24 May 2023, 2:50:18 am)
+[2023.05.23-06.50.18:592][852]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.50.18:598][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006214s)
+[2023.05.23-06.50.18:599][852]LogAIModule: Creating AISystem for world MainLevel
+[2023.05.23-06.50.18:599][852]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2023.05.23-06.50.18:599][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.007462s)
+[2023.05.23-06.50.18:626][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.23-06.50.18:627][852]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-06.50.18:627][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-06.50.18:627][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-06.50.18:628][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-06.50.18:628][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-06.50.18:628][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-06.50.18:628][852]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-06.50.18:632][852]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-06.50.18:632][852]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-06.50.18:638][852]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.05.23-06.50.18:638][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-06.50.18:638][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-06.50.18:638][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-06.50.18:638][852]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-06.50.18:638][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-06.50.18:639][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-06.50.18:639][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-06.50.18:640][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-06.50.18:640][852]LogInit: FAudioDevice initialized.
+[2023.05.23-06.50.18:640][852]LogAudio: Display: Audio Device (ID: 51) registered with world 'MainLevel'.
+[2023.05.23-06.50.18:647][852]LogLoad: Game class is 'GM_Survival_C'
+[2023.05.23-06.50.18:650][852]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.05.23-16.50.18
+[2023.05.23-06.50.18:650][852]LogWorld: Bringing up level for play took: 0.001395
+[2023.05.23-06.50.18:650][852]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.05.23-06.50.18:652][852]PIE: Server logged in
+[2023.05.23-06.50.18:654][852]PIE: Play in editor total start time 0.089 seconds.
+[2023.05.23-06.50.28:558][ 38]LogAudio: Warning: Detected orphaned looping sound 'AmbientBUzz'.
+[2023.05.23-06.50.28:558][ 38]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Ambient_Radio...
+[2023.05.23-06.50.28:560][ 38]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Sounds/Ambient_Radio.Ambient_Radio will be modified from 40 to 40.
+[2023.05.23-06.50.29:155][ 38]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6872000 while cooking SoundWave /Game/Blueprints/Sounds/Ambient_Radio.Ambient_Radio.
+[2023.05.23-06.50.55:518][196]LogBlueprintUserMessages: [BP_Mother1_2] 17.14098
+[2023.05.23-06.50.55:518][196]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.50.57:201][398]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.51.06:655][532]LogBlueprintUserMessages: [BP_Mother1_2] 17.536499
+[2023.05.23-06.51.06:655][532]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.51.09:099][825]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.51.19:063][ 20]LogBlueprintUserMessages: [BP_Mother1_2] 10.916899
+[2023.05.23-06.51.19:063][ 20]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.51.19:063][ 20]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.51.27:659][ 51]LogBlueprintUserMessages: [BP_Mother1_2] 15.007233
+[2023.05.23-06.51.27:660][ 51]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.51.27:660][ 51]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.51.30:785][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.51.30:785][422]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.51.30:785][422]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.51.30:786][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.51.30:798][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-06.51.30:808][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.51.30:834][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.51.30:834][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.51.30:835][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.51.30:840][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.23-06.51.30:883][423]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.05.23-06.52.37:506][939]BlueprintLog: New page: Compile BP_Family1
+[2023.05.23-06.52.37:585][939]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Child_C_0.PaperSprite)
+[2023.05.23-06.52.37:586][939]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Father1_C_0.PaperSprite)
+[2023.05.23-06.52.37:586][939]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.REINST_BP_Mother1_C_0.PaperSprite)
+[2023.05.23-06.52.37:633][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.05.23-06.52.38:019][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.52.38:136][965]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family172E9433F405B4E9F7AABEDB78F1592CB.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.52.38:151][965]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.52.38:151][965]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.52.38:735][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Family/BP_Family1" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset" SILENT=true
+[2023.05.23-06.52.38:875][ 21]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_Family15F0508954E5D38A47C450E9BE9E0EFFE.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Family/BP_Family1.uasset'
+[2023.05.23-06.52.38:889][ 21]AssetCheck: New page: Asset Save: BP_Family1
+[2023.05.23-06.52.38:889][ 21]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Family/BP_Family1.BP_Family1
+[2023.05.23-06.52.39:676][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2023.05.23-06.52.39:852][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.05.23-06.52.39:886][101]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevelF9F7765F4FB76F9D8EF7A2B2B352AC7A.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.52.39:905][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.52.39:931][101]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltData486C2B0B43602194A8D62C87C6DF54AB.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.52.39:947][101]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.52.39:947][101]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.52.39:947][101]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.52.56:821][ 61]LogEditorViewport: Clicking Background
+[2023.05.23-06.52.56:930][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.23-06.52.56:960][ 66]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel4143904B40EF193CBCC522B7FB0FC9E7.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.52.56:975][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.52.56:996][ 66]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltData1ACA34714AA1367656B58EB78C6473C8.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.52.57:009][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.52.57:009][ 66]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.52.57:009][ 66]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.52.57:557][126]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-06.52.57:563][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-06.52.57:563][126]PIE: New page: PIE session: MainLevel (24 May 2023, 2:52:57 am)
+[2023.05.23-06.52.57:596][126]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.52.57:604][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008836s)
+[2023.05.23-06.52.57:605][126]LogAIModule: Creating AISystem for world MainLevel
+[2023.05.23-06.52.57:605][126]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2023.05.23-06.52.57:605][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.010204s)
+[2023.05.23-06.52.57:635][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.23-06.52.57:635][126]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-06.52.57:635][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-06.52.57:635][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-06.52.57:636][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-06.52.57:636][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-06.52.57:636][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-06.52.57:636][126]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-06.52.57:639][126]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-06.52.57:639][126]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-06.52.57:646][126]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.05.23-06.52.57:646][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-06.52.57:646][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-06.52.57:646][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-06.52.57:647][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-06.52.57:647][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-06.52.57:647][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-06.52.57:648][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-06.52.57:648][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-06.52.57:648][126]LogInit: FAudioDevice initialized.
+[2023.05.23-06.52.57:648][126]LogAudio: Display: Audio Device (ID: 52) registered with world 'MainLevel'.
+[2023.05.23-06.52.57:657][126]LogLoad: Game class is 'GM_Survival_C'
+[2023.05.23-06.52.57:659][126]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.05.23-16.52.57
+[2023.05.23-06.52.57:660][126]LogWorld: Bringing up level for play took: 0.002057
+[2023.05.23-06.52.57:660][126]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.05.23-06.52.57:662][126]PIE: Server logged in
+[2023.05.23-06.52.57:663][126]PIE: Play in editor total start time 0.102 seconds.
+[2023.05.23-06.53.07:553][310]LogAudio: Warning: Detected orphaned looping sound 'AmbientBUzz'.
+[2023.05.23-06.53.39:880][184]LogBlueprintUserMessages: [BP_Mother1_2] 14.595645
+[2023.05.23-06.53.39:880][184]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.53.39:880][184]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.53.56:168][138]LogBlueprintUserMessages: [BP_Mother1_2] 16.846813
+[2023.05.23-06.53.56:168][138]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.53.56:168][138]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.54.01:112][731]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.54.07:557][504]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.54.07:557][504]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.54.14:051][283]LogBlueprintUserMessages: [BP_Mother1_2] 4.841136
+[2023.05.23-06.54.14:052][283]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.54.14:052][283]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.54.19:538][938]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.54.29:927][184]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.54.29:927][184]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.54.32:739][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.54.32:739][516]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.54.32:739][516]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.54.32:739][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.54.32:748][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-06.54.32:751][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.54.32:775][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-06.54.32:775][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.54.32:777][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.54.32:779][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.54.32:782][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.23-06.54.32:811][517]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.05.23-06.54.35:409][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/AmbientBUzz" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientBUzz.uasset" SILENT=true
+[2023.05.23-06.54.35:411][810]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/AmbientBUzz951F400541A69584D2A36D8742B0B286.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientBUzz.uasset'
+[2023.05.23-06.54.35:424][810]AssetCheck: New page: Asset Save: AmbientBUzz
+[2023.05.23-06.54.35:424][810]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Sounds/AmbientBUzz.AmbientBUzz
+[2023.05.23-06.54.39:790][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/AmbientMum" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset" SILENT=true
+[2023.05.23-06.54.39:791][324]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/AmbientMum6C6BFAED4218E246D74C0CA769F7895E.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset'
+[2023.05.23-06.54.39:803][324]AssetCheck: New page: Asset Save: AmbientMum
+[2023.05.23-06.54.39:803][324]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Sounds/AmbientMum.AmbientMum
+[2023.05.23-06.54.42:708][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/AmbientMum" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset" SILENT=true
+[2023.05.23-06.54.42:709][660]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/AmbientMumBB3C700E467BC9E9125115BA65027FCD.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset'
+[2023.05.23-06.54.42:720][660]AssetCheck: New page: Asset Save: AmbientMum
+[2023.05.23-06.54.42:720][660]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Sounds/AmbientMum.AmbientMum
+[2023.05.23-06.54.43:859][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/AmbientMum" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset" SILENT=true
+[2023.05.23-06.54.43:860][787]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/AmbientMumB205D73B40CC69A894BA89BBE958CF01.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset'
+[2023.05.23-06.54.43:873][787]AssetCheck: New page: Asset Save: AmbientMum
+[2023.05.23-06.54.43:873][787]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Sounds/AmbientMum.AmbientMum
+[2023.05.23-06.54.51:113][638]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2023.05.23-06.54.51:218][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.23-06.54.51:247][639]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevelD085CFB94D2A3E7C94A1A8AA4150F6B1.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.54.51:263][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.54.51:284][639]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltDataD17532E641A92353876CB399F074F935.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.54.51:298][639]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.54.51:298][639]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.54.51:298][639]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.54.57:708][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sounds/AmbientMum" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset" SILENT=true
+[2023.05.23-06.54.57:709][970]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/AmbientMumBFFA592A49D1A30913F9619FF4F4D1D1.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Sounds/AmbientMum.uasset'
+[2023.05.23-06.54.57:722][970]AssetCheck: New page: Asset Save: AmbientMum
+[2023.05.23-06.54.57:722][970]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Sounds/AmbientMum.AmbientMum
+[2023.05.23-06.54.58:892][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-06.54.58:898][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-06.54.58:898][ 84]PIE: New page: PIE session: MainLevel (24 May 2023, 2:54:58 am)
+[2023.05.23-06.54.58:898][ 84]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.54.58:904][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006271s)
+[2023.05.23-06.54.58:905][ 84]LogAIModule: Creating AISystem for world MainLevel
+[2023.05.23-06.54.58:905][ 84]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2023.05.23-06.54.58:905][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.007347s)
+[2023.05.23-06.54.58:933][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.23-06.54.58:934][ 84]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-06.54.58:934][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-06.54.58:934][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-06.54.58:935][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-06.54.58:935][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-06.54.58:935][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-06.54.58:935][ 84]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-06.54.58:940][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-06.54.58:940][ 84]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-06.54.58:945][ 84]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.05.23-06.54.58:945][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-06.54.58:945][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-06.54.58:945][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-06.54.58:946][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-06.54.58:946][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-06.54.58:946][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-06.54.58:947][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-06.54.58:947][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-06.54.58:947][ 84]LogInit: FAudioDevice initialized.
+[2023.05.23-06.54.58:947][ 84]LogAudio: Display: Audio Device (ID: 53) registered with world 'MainLevel'.
+[2023.05.23-06.54.58:959][ 84]LogLoad: Game class is 'GM_Survival_C'
+[2023.05.23-06.54.58:961][ 84]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.05.23-16.54.58
+[2023.05.23-06.54.58:961][ 84]LogWorld: Bringing up level for play took: 0.001350
+[2023.05.23-06.54.58:961][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2023.05.23-06.54.58:963][ 84]PIE: Server logged in
+[2023.05.23-06.54.58:964][ 84]PIE: Play in editor total start time 0.067 seconds.
+[2023.05.23-06.55.08:892][272]LogAudio: Warning: Detected orphaned looping sound 'AmbientBUzz'.
+[2023.05.23-06.55.28:901][672]LogAudio: Warning: Detected orphaned looping sound 'AmbientMum'.
+[2023.05.23-06.55.40:270][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.55.40:270][ 30]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.55.40:271][ 30]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.55.40:271][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.55.40:280][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-06.55.40:297][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.55.40:321][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.55.40:322][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.55.40:323][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.55.40:328][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.23-06.55.40:377][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.05.23-06.56.35:701][107]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_PlayerCameraE36D2E8C48B10115079516A486744480.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Player/BP_PlayerCamera.uasset'
+[2023.05.23-06.56.35:715][107]AssetCheck: New page: Asset Save: BP_PlayerCamera
+[2023.05.23-06.56.35:715][107]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.05.23-06.56.36:397][181]BlueprintLog: New page: Compile BP_PlayerCamera
+[2023.05.23-06.56.36:465][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.05.23-06.56.37:216][247]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_PlayerCameraC2CA7FD444F2F778612C0FB337CEF75B.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Player/BP_PlayerCamera.uasset'
+[2023.05.23-06.56.37:231][247]AssetCheck: New page: Asset Save: BP_PlayerCamera
+[2023.05.23-06.56.37:231][247]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.05.23-06.56.37:787][302]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_PlayerCamera8A5F6ADE422C75C6E417AA8AA354EB2A.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Player/BP_PlayerCamera.uasset'
+[2023.05.23-06.56.37:803][302]AssetCheck: New page: Asset Save: BP_PlayerCamera
+[2023.05.23-06.56.37:803][302]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.05.23-06.56.44:151][ 44]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_PlayerCamera627B82104D7C57E690F0B7848667A104.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Player/BP_PlayerCamera.uasset'
+[2023.05.23-06.56.44:165][ 44]AssetCheck: New page: Asset Save: BP_PlayerCamera
+[2023.05.23-06.56.44:165][ 44]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.05.23-06.56.45:019][142]BlueprintLog: New page: Compile BP_PlayerCamera
+[2023.05.23-06.56.45:102][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.05.23-06.56.45:599][183]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_PlayerCameraCB96683E4DFBEAB5B077409AA7D8818E.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Player/BP_PlayerCamera.uasset'
+[2023.05.23-06.56.45:614][183]AssetCheck: New page: Asset Save: BP_PlayerCamera
+[2023.05.23-06.56.45:614][183]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.05.23-06.56.46:253][243]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/BP_PlayerCamera01EA66D44A4597CBC281DE8E9F84288A.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Blueprints/Player/BP_PlayerCamera.uasset'
+[2023.05.23-06.56.46:268][243]AssetCheck: New page: Asset Save: BP_PlayerCamera
+[2023.05.23-06.56.46:268][243]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.05.23-06.56.46:996][314]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2023.05.23-06.56.47:147][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.05.23-06.56.47:175][320]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevelDD71F57C47C9C4769D559085C56354A4.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.56.47:191][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.56.47:214][320]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltDataFEE4AD3D44F0C98520E2D6B777BF3374.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.56.47:229][320]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.56.47:229][320]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.56.47:229][320]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.56.47:867][385]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-06.56.47:873][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-06.56.47:873][385]PIE: New page: PIE session: MainLevel (24 May 2023, 2:56:47 am)
+[2023.05.23-06.56.47:873][385]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.56.47:879][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006190s)
+[2023.05.23-06.56.47:880][385]LogAIModule: Creating AISystem for world MainLevel
+[2023.05.23-06.56.47:880][385]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2023.05.23-06.56.47:880][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.007314s)
+[2023.05.23-06.56.47:907][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.23-06.56.47:908][385]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-06.56.47:908][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-06.56.47:908][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-06.56.47:908][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-06.56.47:908][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-06.56.47:908][385]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-06.56.47:912][385]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-06.56.47:912][385]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-06.56.47:918][385]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.05.23-06.56.47:918][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-06.56.47:918][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-06.56.47:919][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-06.56.47:919][385]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-06.56.47:919][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-06.56.47:919][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-06.56.47:920][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-06.56.47:920][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-06.56.47:920][385]LogInit: FAudioDevice initialized.
+[2023.05.23-06.56.47:920][385]LogAudio: Display: Audio Device (ID: 54) registered with world 'MainLevel'.
+[2023.05.23-06.56.47:928][385]LogLoad: Game class is 'GM_Survival_C'
+[2023.05.23-06.56.47:930][385]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.05.23-16.56.47
+[2023.05.23-06.56.47:930][385]LogWorld: Bringing up level for play took: 0.001504
+[2023.05.23-06.56.47:930][385]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2023.05.23-06.56.47:932][385]PIE: Server logged in
+[2023.05.23-06.56.47:933][385]PIE: Play in editor total start time 0.062 seconds.
+[2023.05.23-06.56.57:874][571]LogAudio: Warning: Detected orphaned looping sound 'AmbientBUzz'.
+[2023.05.23-06.57.17:885][970]LogAudio: Warning: Detected orphaned looping sound 'AmbientMum'.
+[2023.05.23-06.57.31:451][597]LogBlueprintUserMessages: [BP_Mother1_2] 5.755363
+[2023.05.23-06.57.31:451][597]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.57.31:451][597]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.57.48:686][664]LogBlueprintUserMessages: [BP_Mother1_2] 17.165287
+[2023.05.23-06.57.48:686][664]LogBlueprintUserMessages: [BP_Door_5] Hello
+[2023.05.23-06.57.48:686][664]LogBlueprintUserMessages: [BP_Mother1_2] sate cange
+[2023.05.23-06.57.52:923][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.57.52:923][167]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2023.05.23-06.57.52:923][167]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-06.57.52:924][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.57.52:936][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-06.57.52:950][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-06.57.52:976][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-06.57.52:976][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.57.52:977][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-06.57.52:982][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.23-06.57.53:028][168]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.05.23-06.58.05:344][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.23-06.58.05:373][614]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel345170214FF6F7B87548638A49325CF9.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.23-06.58.05:389][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.05.23-06.58.05:409][614]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Saved/MainLevel_BuiltData7AACEA3D4B7A6C45521D209BBBB20F4D.tmp' to '../../../../../../Users/S214666/GitRepos/ClientProject/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.05.23-06.58.05:421][614]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-06.58.05:421][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.05.23-06.58.05:421][614]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.23-06.58.14:167][534]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/FB_Child.FB_Child
+[2023.05.23-06.58.14:248][535]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:1).
+[2023.05.23-06.58.23:824][624]Cmd: TRANSACTION UNDO
+[2023.05.23-06.58.23:824][624]LogEditorTransaction: Undo Insert Key Frame
+[2023.05.23-06.59.06:949][456]LogEditorViewport: Clicking on Actor (LMB): Fridge_C (Fridge)
