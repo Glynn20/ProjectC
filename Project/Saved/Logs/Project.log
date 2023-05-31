@@ -1032,3 +1032,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.31-00.17.50:332][312]LogSavePackage: Moving '../../../../../GitRepositories/ProjectC/Project/Saved/MainLevel44BD27324860DA5FE2C9DAA58ACBE0B3.tmp' to '../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap'
 [2023.05.31-00.17.50:352][312]AssetCheck: New page: Asset Save: MainLevel
 [2023.05.31-00.17.50:352][312]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.31-00.27.27:608][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.31-00.27.28:328][467]LogSlate: Took 0.009813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.31-01.31.47:283][582]LogAssetTools: Warning: Failed to import 'D:\UnrealLearning\TriplexHouseVilla\Content\BigTriplexHouseVilla\Meshes\Props\SM_Fridge_polySurface31.uasset'. Unknown extension 'uasset'.
+[2023.05.31-01.33.43:601][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-01.33.43:917][871]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2023.05.31-01.33.44:315][871]LogSavePackage: Moving '../../../../../GitRepositories/ProjectC/Project/Saved/MainLevel4024DA004BB81F90BEDA0189F3FF33C1.tmp' to '../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.05.31-01.33.44:385][871]AssetCheck: New page: Asset Save: MainLevel
+[2023.05.31-01.33.44:385][871]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.05.31-01.33.47:288][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.47:288][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.47:288][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Glass': Can't find file.
+[2023.05.31-01.33.47:288][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Glass': Can't find file.
+[2023.05.31-01.33.47:289][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Light': Can't find file.
+[2023.05.31-01.33.47:289][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Light': Can't find file.
+[2023.05.31-01.33.47:289][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.47:289][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Glass': Can't find file.
+[2023.05.31-01.33.47:289][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Light': Can't find file.
+[2023.05.31-01.33.47:292][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.47:293][209]LoadErrors: Failed to load /Game/BigTriplexHouseVilla/Materials/MI_Fridge.MI_Fridge Referenced by SM_Fridge_polySurface12
+[2023.05.31-01.33.47:293][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Glass': Can't find file.
+[2023.05.31-01.33.47:293][209]LoadErrors: Failed to load /Game/BigTriplexHouseVilla/Materials/MI_Glass.MI_Glass Referenced by SM_Fridge_polySurface12
+[2023.05.31-01.33.47:293][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Light': Can't find file.
+[2023.05.31-01.33.47:293][209]LoadErrors: Failed to load /Game/BigTriplexHouseVilla/Materials/MI_Light.MI_Light Referenced by SM_Fridge_polySurface12
+[2023.05.31-01.33.47:293][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.47:293][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Glass': Can't find file.
+[2023.05.31-01.33.47:294][209]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface12.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Light': Can't find file.
+[2023.05.31-01.33.47:390][209]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/SM_Fridge_polySurface12.SM_Fridge_polySurface12
+[2023.05.31-01.33.47:482][209]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.31-01.33.47:572][209]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.31-01.33.57:778][166]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface31.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.57:778][166]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface31.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.57:779][166]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface31.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.57:779][166]LoadErrors: Failed to load /Game/BigTriplexHouseVilla/Materials/MI_Fridge.MI_Fridge Referenced by SM_Fridge_polySurface31
+[2023.05.31-01.33.57:779][166]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface31.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.33.57:792][166]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/SM_Fridge_polySurface31.SM_Fridge_polySurface31
+[2023.05.31-01.34.01:958][549]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface41.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.01:958][549]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface41.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.01:958][549]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface41.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.01:958][549]LoadErrors: Failed to load /Game/BigTriplexHouseVilla/Materials/MI_Fridge.MI_Fridge Referenced by SM_Fridge_polySurface41
+[2023.05.31-01.34.01:958][549]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface41.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.01:970][549]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/SM_Fridge_polySurface41.SM_Fridge_polySurface41
+[2023.05.31-01.34.08:518][262]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface44.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.08:518][262]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface44.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.08:519][262]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface44.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.08:519][262]LoadErrors: Failed to load /Game/BigTriplexHouseVilla/Materials/MI_Fridge.MI_Fridge Referenced by SM_Fridge_polySurface44
+[2023.05.31-01.34.08:519][262]LogLinker: Warning: [AssetLog] D:\GitRepositories\ProjectC\Project\Content\Meshes\SM_Fridge_polySurface44.uasset: Failed to load '/Game/BigTriplexHouseVilla/Materials/MI_Fridge': Can't find file.
+[2023.05.31-01.34.08:537][262]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/SM_Fridge_polySurface44.SM_Fridge_polySurface44
+[2023.05.31-01.34.15:271][994]LogActorFactory: Actor Factory created SM_Fridge_polySurface12
+[2023.05.31-01.34.16:093][ 84]LogActorFactory: Actor Factory created SM_Fridge_polySurface12
+[2023.05.31-01.34.19:919][490]Cmd: TRANSACTION UNDO
+[2023.05.31-01.34.19:931][490]LogEditorTransaction: Undo Rotate Actors
+[2023.05.31-01.34.21:456][597]Cmd: MODE ROTGRID=1
+[2023.05.31-01.34.25:408][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface12)
+[2023.05.31-01.34.33:918][985]LogActorFactory: Actor Factory created SM_Fridge_polySurface41
+[2023.05.31-01.34.34:541][ 50]LogActorFactory: Actor Factory created SM_Fridge_polySurface41
+[2023.05.31-01.34.40:420][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface41)
+[2023.05.31-01.34.40:475][677]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.31-01.34.55:229][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.31-01.35.05:831][535]LogActorFactory: Actor Factory created SM_Fridge_polySurface31
+[2023.05.31-01.35.06:514][616]LogActorFactory: Actor Factory created SM_Fridge_polySurface31
+[2023.05.31-01.35.19:974][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2023.05.31-01.35.21:719][356]LogActorFactory: Actor Factory created SM_Fridge_polySurface44
+[2023.05.31-01.35.22:668][469]LogActorFactory: Actor Factory created SM_Fridge_polySurface44
+[2023.05.31-01.35.26:657][943]Cmd: TRANSACTION UNDO
+[2023.05.31-01.35.26:657][943]LogEditorTransaction: Undo Move Actors
+[2023.05.31-01.35.33:669][660]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.31-01.35.40:339][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface41)
+[2023.05.31-01.35.43:093][748]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.31-01.35.46:851][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface31)
+[2023.05.31-01.35.47:538][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface41)
+[2023.05.31-01.35.50:751][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2023.05.31-01.35.54:145][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface31)
+[2023.05.31-01.35.56:225][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2023.05.31-01.35.59:641][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2023.05.31-01.36.01:633][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge_polySurface31)
