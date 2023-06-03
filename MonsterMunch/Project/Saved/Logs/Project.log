@@ -1,0 +1,1629 @@
+﻿Log file open, 06/03/23 17:32:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.470067
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.06.03-07.32.11:230][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.06.03-07.32.11:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:231][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:269][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.03-07.32.11:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.03-07.32.11:270][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.03-07.32.11:271][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.03-07.32.11:271][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.03-07.32.11:271][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.06.03-07.32.11:272][  0]LogHAL: Display: Platform has ~ 16 GB [17042870272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.03-07.32.11:272][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.03-07.32.11:272][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.03-07.32.11:272][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.03-07.32.11:273][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Scalability.ini]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.03-07.32.11:274][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.03-07.32.11:285][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.03-07.32.11:285][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.03-07.32.11:285][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.06.03-07.32.11:285][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Engine.ini]
+[2023.06.03-07.32.11:285][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitRepositories/ProjectC/Project/Saved/Config/Windows/Editor.ini]
+[2023.06.03-07.32.11:300][  0]LogInit: Computer: GLYNNPC
+[2023.06.03-07.32.11:300][  0]LogInit: User: Glynn
+[2023.06.03-07.32.11:300][  0]LogInit: CPU Page size=4096, Cores=10
+[2023.06.03-07.32.11:300][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.03-07.32.11:300][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.06.03-07.32.11:300][  0]LogMemory: Platform Memory Stats for Windows
+[2023.06.03-07.32.11:300][  0]LogMemory: Process Physical Memory: 151.18 MB used, 151.18 MB peak
+[2023.06.03-07.32.11:300][  0]LogMemory: Process Virtual Memory: 134.32 MB used, 134.32 MB peak
+[2023.06.03-07.32.11:300][  0]LogMemory: Physical Memory: 9206.88 MB used,  7046.46 MB free, 16253.35 MB total
+[2023.06.03-07.32.11:300][  0]LogMemory: Virtual Memory: 134211360.00 MB used,  6369.71 MB free, 134217728.00 MB total
+[2023.06.03-07.32.11:305][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.03-07.32.11:722][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.06.03-07.32.11:732][  0]LogInit: Using OS detected language (en-US).
+[2023.06.03-07.32.11:732][  0]LogInit: Using OS detected locale (en-AU).
+[2023.06.03-07.32.11:787][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.06.03-07.32.12:308][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.03-07.32.12:402][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.03-07.32.12:686][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.03-07.32.12:686][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.03-07.32.14:110][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.06.03-07.32.14:136][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.03-07.32.14:136][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.03-07.32.14:136][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.06.03-07.32.14:136][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.03-07.32.14:239][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_0)
+[2023.06.03-07.32.14:252][  0]LogD3D11RHI:       10067/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     DeviceId    : 2216
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     SubSysId    : 403f1458
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     SharedSystemMemory : 8521435136 bytes
+[2023.06.03-07.32.14:255][  0]LogD3D11RHI:     AdapterLuid : 0 78503
+[2023.06.03-07.32.14:260][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.03-07.32.14:260][  0]LogD3D11RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.03-07.32.14:260][  0]LogWindows: EnumDisplayDevices:
+[2023.06.03-07.32.14:260][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1)
+[2023.06.03-07.32.14:260][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:1)
+[2023.06.03-07.32.14:260][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2023.06.03-07.32.14:260][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2023.06.03-07.32.14:260][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.03-07.32.14:260][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.06.03-07.32.14:261][  0]LogD3D11RHI:   Driver Version: 531.68 (internal:31.0.15.3168, unified:531.68)
+[2023.06.03-07.32.14:261][  0]LogD3D11RHI:      Driver Date: 4-13-2023
+[2023.06.03-07.32.14:261][  0]LogRHI: Texture pool is 7046 MB (70% of 10067 MB)
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     DeviceId    : 2216
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     SubSysId    : 403f1458
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     SharedSystemMemory : 8521435136 bytes
+[2023.06.03-07.32.14:309][  0]LogD3D11RHI:     AdapterLuid : 0 78503
+[2023.06.03-07.32.14:379][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.03-07.32.14:379][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.03-07.32.14:379][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.03-07.32.14:585][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.06.03-07.32.14:721][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.06.03-07.32.15:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.03-07.32.15:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.03-07.32.15:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.03-07.32.15:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.03-07.32.15:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.03-07.32.15:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.06.03-07.32.15:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.03-07.32.15:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.03-07.32.15:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.06.03-07.32.15:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.06.03-07.32.15:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.06.03-07.32.15:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.06.03-07.32.15:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.06.03-07.32.15:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.06.03-07.32.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.06.03-07.32.15:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.06.03-07.32.15:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.06.03-07.32.15:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.03-07.32.15:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.03-07.32.15:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.06.03-07.32.15:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.03-07.32.15:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.03-07.32.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.03-07.32.15:799][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.06.03-07.32.15:891][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.03-07.32.16:170][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.06.03-07.32.16:683][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.03-07.32.16:683][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../GitRepositories/ProjectC/Project/Intermediate/Shaders/WorkingDirectory/23340/).
+[2023.06.03-07.32.16:683][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Glynn/AppData/Local/Temp/UnrealShaderWorkingDir/F078AE594971C794F79C0EA649135640/'.
+[2023.06.03-07.32.16:691][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.03-07.32.16:692][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.06.03-07.32.16:692][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.06.03-07.32.18:111][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.06.03-07.32.18:378][  0]LogDerivedDataCache: Loaded boot cache 0.27s 116MB C:/Users/Glynn/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.06.03-07.32.18:378][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Glynn/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.06.03-07.32.18:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitRepositories/ProjectC/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.03-07.32.18:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.06.03-07.32.18:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitRepositories/ProjectC/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.03-07.32.18:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.06.03-07.32.18:476][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.06.03-07.32.18:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.03-07.32.18:476][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.06.03-07.32.18:487][  0]LogDerivedDataCache: Speed tests for C:/Users/Glynn/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.06.03-07.32.18:487][  0]LogDerivedDataCache: Display: Performance to C:/Users/Glynn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=164.00MBs, RandomWriteSpeed=249.43MBs. Assigned SpeedClass 'Local'
+[2023.06.03-07.32.18:487][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Glynn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.03-07.32.18:488][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.03-07.32.18:488][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.06.03-07.32.18:546][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.03-07.32.18:598][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.03-07.32.19:937][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2023.06.03-07.32.22:883][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.03-07.32.22:883][  0]LogInit: Active device profile: [0000026E7CC3AE00][0000026E7B7E4D80 49] Windows
+[2023.06.03-07.32.22:883][  0]LogInit: Profiles: [0000026E7CC3AE00][0000026E7B7E4D80 49] Windows, [0000026E7CBFD400][0000026E7B7ECF00 49] WindowsNoEditor, [0000026E7CC39400][0000026E7B7F1080 49] WindowsServer, [0000026E7CBFE400][0000026E7B7F5200 49] WindowsClient, [0000026E7CC38C00][0000026E7B7F9380 49] IOS, [0000026E7CBFFA00][0000026E7B7FD500 49] iPadAir, [0000026E7CC3BF00][0000026E7B801680 49] iPadAir2, [0000026E7CBAAA00][0000026E7B809940 49] IPadPro, [0000026E7CBAAB00][0000026E7B805980 49] iPadAir3, [0000026E7CC38100][0000026E7B80DB00 49] iPadAir4, [0000026E7CBAB600][0000026E7B810100 49] iPadMini2, [0000026E7CC39600][0000026E7B814280 49] iPadMini3, [0000026E7CBA8C00][0000026E7B818400 49] iPadMini4, [0000026E7CC3AF00][0000026E7B81C580 49] iPadMini5, [0000026E7CBEE300][0000026E7B824840 49] iPhone6, [0000026E7CBEE400][0000026E7B820880 49] iPodTouch6, [0000026E7CBA9000][0000026E7B828AC0 49] iPhone7, [0000026E7CBAA400][0000026E7B7E8B00 49] iPodTouch7, [0000026E7CBEEE00][0000026E7B82CC40 49] iPhone5S, [0000026E7CBA8900][0000026E7B830D80 49] iPhone6Plus, [0000026E7CBECC00][0000026E7B838F00 49] iPhone6S, [0000026E7CBA9300][0000026E7B83D080 49] iPhone6SPlus, [0000026E7CBEF600][0000026E7B841200 49] iPhone7Plus, [0000026E7CBAAC00][0000026E7B845380 49] iPhoneSE, [0000026E7CBEF100][0000026E7B849500 49] iPhone8, [0000026E7CBA8700][0000026E7B84D680 49] iPhone8Plus, [0000026E7CBEC500][0000026E7B851800 49] iPhoneX, [0000026E7CBA9500][0000026E7B855980 49] iPhoneXS, [0000026E7CBED700][0000026E7B859B00 49] iPhoneXSMax, [0000026E7CBA8100][0000026E7B85C100 49] iPhoneXR, [0000026E7CBED000][0000026E7B860280 49] iPhone11, [0000026E7CBAA000][0000026E7B864400 49] iPhone11Pro, [0000026E7CBEDD00][0000026E7B868580 49] iPhone11ProMax, [0000026E7CBA8D00][0000026E7B86C700 49] iPhoneSE2, [0000026E7CBED800][0000026E7B870880 49] iPhone12Mini, [0000026E7CBAAE00][0000026E7B874A00 49] iPhone12, [0000026E7CBEFC00][0000026E7B834B40 49] iPhone12Pro, [0000026E7CBA9B00][0000026E7B878C80 49] iPhone12ProMax, [0000026E7CBEFF00][0000026E7B87CDC0 49] iPadPro105, [0000026E7CBABF00][0000026E7B880F00 49] iPadPro129, [0000026E7CBED900][0000026E7B889080 49] iPadPro97, [0000026E7CBA9800][0000026E7B88D200 49] iPadPro2_129, [0000026E7CBEC300][0000026E7B891380 49] iPad5, [0000026E7CBA9700][0000026E7B895500 49] iPad6, [0000026E7CBEDE00][0000026E7B899680 49] iPad7, [0000026E7CBAB200][0000026E7B89D800 49] iPad8, [0000026E7CBEDB00][0000026E7B8A1980 49] iPadPro11, [0000026E7CBA9F00][0000026E7B8A5B00 49] iPadPro2_11, [0000026E7CBEDA00][0000026E7B8A8100 49] iPadPro3_129, [0000026E7CBA9900][0000026E7B8AC280 49] iPadPro4_129, [0000026E7CBED200][0000026E7B8B0400 49] AppleTV, [0000026E7CBAB100][0000026E7B8B4580 49] AppleTV4K, [0000026E7CBFC700][0000026E7B8B8700 49] TVOS, [0000026E7CC81500][0000026E7B8BC880 49] Mac, [0000026E7CBFEC00][0000026E7D8D0A00 49] MacClient, [0000026E7CC81700][0000026E7D8D4B80 49] MacNoEditor, [0000026E7CBFDC00][0000026E7D8D8D00 49] MacServer, [0000026E7CC82600][0000026E7B884E40 49] Linux, [0000026E7CBFF600][0000026E7D8DCF80 49] LinuxAArch64, [0000026E7CC81100][0000026E7D8E10C0 49] LinuxNoEditor, [0000026E7CBFF000][0000026E7D8E9240 49] LinuxAArch64NoEditor, [0000026E7CC81B00][0000026E7D8ED3C0 49] LinuxClient, [0000026E7CBFEB00][0000026E7D8F1540 49] LinuxAArch64Client, [0000026E7CC80700][0000026E7D8F56C0 49] LinuxServer, [0000026E7CBFD900][0000026E7D8F9840 49] LinuxAArch64Server, [0000026E7CC80E00][0000026E7D8FD9C0 49] Android, [0000026E7CBFC800][0000026E7D901B40 49] Android_Low, [0000026E7CC81D00][0000026E7D904140 49] Android_Mid, [0000026E7CBFD600][0000026E7D9082C0 49] Android_High, [0000026E7CBEE000][0000026E7D90C440 49] Android_Default, [0000026E7CBAB300][0000026E7D9105C0 49] Android_Adreno4xx, [0000026E7CBEEA00][0000026E7D914740 49] Android_Adreno5xx_Low, [0000026E7CBAA600][0000026E7D9188C0 49] Android_Adreno5xx, [0000026E7CBEE500][0000026E7D91CA40 49] Android_Adreno6xx, [0000026E7CBA8400][0000026E7D920BC0 49] Android_Adreno6xx_Vulkan, [0000026E7CBEE700][0000026E7D924D40 49] Android_Mali_T6xx, [0000026E7CBAB800][0000026E7D928EC0 49] Android_Mali_T7xx, [0000026E7CBEF000][0000026E7D8E5000 49] Android_Mali_T8xx, [0000026E7CBA8800][0000026E7D92D140 49] Android_Mali_G71, [0000026E7CBECF00][0000026E7D931280 49] Android_Mali_G72, [0000026E7CBA8300][0000026E7D9353C0 49] Android_Mali_G72_Vulkan, [0000026E7CC81A00][0000026E7D93D540 49] Android_Mali_G76, [0000026E7CBAA300][0000026E7D9416C0 49] Android_Mali_G76_Vulkan, [0000026E7CC80300][0000026E7D945840 49] Android_Mali_G77, [0000026E7CBAA100][0000026E7D9499C0 49] Android_Mali_G77_Vulkan, [0000026E7CC82100][0000026E7D94DB40 49] Android_Mali_G78, [0000026E7CBAA500][0000026E7D950140 49] Android_Mali_G78_Vulkan, [0000026E7CC81E00][0000026E7D9542C0 49] Android_Mali_G710, [0000026E7CBA8F00][0000026E7D958440 49] Android_Mali_G710_Vulkan, [0000026E7CC80A00][0000026E7D95C5C0 49] Android_Vulkan_SM5, [0000026E7CBABB00][0000026E7D960740 49] Android_PowerVR_G6xxx, [0000026E7CC81000][0000026E7D9648C0 49] Android_PowerVR_GT7xxx, [0000026E7CBAB700][0000026E7D968A40 49] Android_PowerVR_GE8xxx, [0000026E7CC81600][0000026E7D96CBC0 49] Android_PowerVR_GM9xxx, [0000026E7CBAA900][0000026E7D970D40 49] Android_PowerVR_GM9xxx_Vulkan, [0000026E7CBEC700][0000026E7D974EC0 49] Android_TegraK1, [0000026E7CBA9E00][0000026E7D979040 49] Android_Unknown_Vulkan, [0000026E7CBEDF00][0000026E7D939180 49] Lumin, [0000026E7CBA9C00][0000026E7D97D2C0 49] Lumin_Desktop, [0000026E7CBEE900][0000026E7D981400 49] HoloLens, 
+[2023.06.03-07.32.24:331][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.03-07.32.24:331][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.03-07.32.24:331][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.03-07.32.24:331][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.03-07.32.24:332][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.03-07.32.24:451][  0]LogNetVersion: Project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3814265607)
+[2023.06.03-07.32.37:241][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.06.03-07.32.37:576][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.03-07.32.37:611][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.06.03-07.32.37:611][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.06.03-07.32.37:611][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.03-07.32.39:889][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5B8D3CCF45CC45C3491E2E8315E8F0A7 | Instance: B5A7CD1544C95BA37474EB8825AFE771 (GLYNNPC-23340).
+[2023.06.03-07.32.40:597][  0]LogPython: Using Python 3.7.7
+[2023.06.03-07.32.42:021][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.03-07.32.42:047][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.03-07.32.43:406][  0]SourceControl: Source control is disabled
+[2023.06.03-07.32.43:406][  0]SourceControl: Source control is disabled
+[2023.06.03-07.32.43:469][  0]SourceControl: Source control is disabled
+[2023.06.03-07.32.43:557][  0]SourceControl: Source control is disabled
+[2023.06.03-07.32.43:567][  0]SourceControl: Source control is disabled
+[2023.06.03-07.32.43:576][  0]LogUProjectInfo: Found projects:
+[2023.06.03-07.32.44:563][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.03-07.32.45:004][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.03-07.32.45:865][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.03-07.32.45:865][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.03-07.32.46:063][  0]LogCollectionManager: Loaded 0 collections in 0.000474 seconds
+[2023.06.03-07.32.46:157][  0]LogFileCache: Scanning file cache for directory 'D:/GitRepositories/ProjectC/Project/Saved/Collections/' took 0.00s
+[2023.06.03-07.32.46:157][  0]LogFileCache: Scanning file cache for directory 'D:/GitRepositories/ProjectC/Project/Content/Developers/Glynn/Collections/' took 0.00s
+[2023.06.03-07.32.46:157][  0]LogFileCache: Scanning file cache for directory 'D:/GitRepositories/ProjectC/Project/Content/Collections/' took 0.00s
+[2023.06.03-07.32.46:157][  0]LogOcInput: OculusInput pre-init called
+[2023.06.03-07.32.47:342][  0]LogEngine: Initializing Engine...
+[2023.06.03-07.32.47:396][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.06.03-07.32.47:396][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.03-07.32.47:396][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.06.03-07.32.47:411][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.014 s
+[2023.06.03-07.32.48:182][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.03-07.32.48:296][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.03-07.32.48:297][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.03-07.32.48:318][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.03-07.32.48:323][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.03-07.32.48:339][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.03-07.32.48:339][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.03-07.32.48:339][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.03-07.32.48:339][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.03-07.32.48:340][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.03-07.32.48:340][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.03-07.32.48:340][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.03-07.32.48:340][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.03-07.32.48:429][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.03-07.32.48:429][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.06.03-07.32.48:438][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.03-07.32.48:439][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.03-07.32.48:449][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.03-07.32.48:449][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.03-07.32.48:450][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.03-07.32.48:450][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.03-07.32.48:450][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.03-07.32.48:450][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.03-07.32.48:450][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.03-07.32.48:450][  0]LogInit: FAudioDevice initialized.
+[2023.06.03-07.32.48:451][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.03-07.32.48:451][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.03-07.32.48:555][  0]LogDerivedDataCache: Saved boot cache 0.10s 116MB C:/Users/Glynn/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.06.03-07.32.48:558][  0]LogInit: Texture streaming: Enabled
+[2023.06.03-07.32.49:234][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.06.03-07.32.49:296][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.03-07.32.49:296][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.06.03-07.32.49:317][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.06.03-07.32.49:870][  0]LogInit: Transaction tracking system initialized
+[2023.06.03-07.32.50:479][  0]BlueprintLog: New page: Editor Load
+[2023.06.03-07.32.51:028][  0]LocalizationService: Localization service is disabled
+[2023.06.03-07.32.51:267][  0]TimingProfiler: Initialize
+[2023.06.03-07.32.51:268][  0]TimingProfiler: OnSessionChanged
+[2023.06.03-07.32.51:268][  0]LoadingProfiler: Initialize
+[2023.06.03-07.32.51:268][  0]LoadingProfiler: OnSessionChanged
+[2023.06.03-07.32.51:268][  0]NetworkingProfiler: Initialize
+[2023.06.03-07.32.51:269][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.03-07.32.51:269][  0]MemoryProfiler: Initialize
+[2023.06.03-07.32.51:269][  0]MemoryProfiler: OnSessionChanged
+[2023.06.03-07.32.52:697][  0]LogFileCache: Scanning file cache for directory 'D:/GitRepositories/ProjectC/Project/Content/' took 0.00s
+[2023.06.03-07.32.52:697][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.06.03-07.32.52:697][  0]LogCook: Display: Mobile HDR setting 1
+[2023.06.03-07.32.54:648][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.03-07.32.54:694][  0]SourceControl: Source control is disabled
+[2023.06.03-07.32.54:694][  0]LogUnrealEdMisc: Loading editor; pre map load, took 62.715
+[2023.06.03-07.32.54:703][  0]Cmd: MAP LOAD FILE="../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.03-07.32.54:704][  0]LightingResults: New page: Lighting Build
+[2023.06.03-07.32.54:727][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.03-07.32.54:727][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.03-07.32.54:728][  0]MapCheck: New page: Map Check
+[2023.06.03-07.32.54:728][  0]LightingResults: New page: Lighting Build
+[2023.06.03-07.32.54:742][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.03-07.32.54:744][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.32.57:676][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.06.03-07.32.57:677][  0]LogAIModule: Creating AISystem for world MainLevel
+[2023.06.03-07.32.57:805][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.03-07.32.57:904][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.06.03-07.32.57:951][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.03-07.32.57:951][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2023.06.03-07.32.57:951][  0]LogFileHelpers: Loading map 'MainLevel' took 3.248
+[2023.06.03-07.32.58:010][  0]LogUnrealEdMisc: Total Editor Startup Time, took 66.030
+[2023.06.03-07.32.58:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-07.32.58:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-07.32.58:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-07.32.58:905][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.03-07.32.59:004][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3822 classes and 928 folders.
+[2023.06.03-07.32.59:078][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.03-07.32.59:194][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.03-07.32.59:194][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:194][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.03-07.32.59:210][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:210][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.06.03-07.32.59:210][  0]LogPakFile: OnPakFileMounted2Time == 0.016993
+[2023.06.03-07.32.59:222][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.03-07.32.59:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.03-07.32.59:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.06.03-07.32.59:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.06.03-07.32.59:248][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.06.03-07.32.59:248][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.06.03-07.32.59:248][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:248][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.06.03-07.32.59:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.06.03-07.32.59:252][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.03-07.32.59:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.03-07.32.59:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.06.03-07.32.59:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.06.03-07.32.59:270][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.03-07.32.59:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.03-07.32.59:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.06.03-07.32.59:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.06.03-07.32.59:276][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.03-07.32.59:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.03-07.32.59:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.06.03-07.32.59:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.06.03-07.32.59:287][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.03-07.32.59:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.03-07.32.59:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.06.03-07.32.59:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.06.03-07.32.59:303][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.03-07.32.59:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.03-07.32.59:303][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:303][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.06.03-07.32.59:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.06.03-07.32.59:319][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.03-07.32.59:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.03-07.32.59:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.06.03-07.32.59:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.06.03-07.32.59:338][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.03-07.32.59:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.03-07.32.59:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:339][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.06.03-07.32.59:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.06.03-07.32.59:354][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.03-07.32.59:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.03-07.32.59:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.06.03-07.32.59:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.06.03-07.32.59:358][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.03-07.32.59:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.03-07.32.59:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.06.03-07.32.59:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.06.03-07.32.59:367][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.03-07.32.59:367][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:367][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.03-07.32.59:367][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:367][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.06.03-07.32.59:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.06.03-07.32.59:369][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.03-07.32.59:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.03-07.32.59:369][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:370][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.06.03-07.32.59:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2023.06.03-07.32.59:379][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.03-07.32.59:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.03-07.32.59:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.06.03-07.32.59:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.06.03-07.32.59:381][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.03-07.32.59:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.03-07.32.59:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.06.03-07.32.59:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.06.03-07.32.59:430][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.03-07.32.59:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.03-07.32.59:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.06.03-07.32.59:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.06.03-07.32.59:432][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.03-07.32.59:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.03-07.32.59:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.06.03-07.32.59:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.06.03-07.32.59:439][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.03-07.32.59:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.03-07.32.59:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.06.03-07.32.59:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.06.03-07.32.59:441][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.03-07.32.59:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.03-07.32.59:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:441][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.06.03-07.32.59:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.06.03-07.32.59:452][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.03-07.32.59:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.03-07.32.59:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.06.03-07.32.59:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.06.03-07.32.59:469][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.03-07.32.59:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.03-07.32.59:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.06.03-07.32.59:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.06.03-07.32.59:480][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.06.03-07.32.59:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.06.03-07.32.59:480][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:480][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.06.03-07.32.59:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.06.03-07.32.59:482][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.03-07.32.59:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.03-07.32.59:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.06.03-07.32.59:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.06.03-07.32.59:484][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.03-07.32.59:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.03-07.32.59:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.06.03-07.32.59:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.06.03-07.32.59:491][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.03-07.32.59:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.03-07.32.59:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.03-07.32.59:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.03-07.32.59:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.06.03-07.32.59:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2023.06.03-07.33.00:457][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.03-07.33.01:414][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.03-07.33.01:543][  0]LogSlate: Took 0.018478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.03-07.33.01:557][  0]LogSlate: Took 0.013534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.03-07.33.01:566][  0]LogSlate: Took 0.007581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.03-07.33.01:767][  0]LogRenderer: Reallocating scene render targets to support 1192x648 Format 10 NumSamples 1 (Frame:1).
+[2023.06.03-07.33.01:954][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.03-07.33.01:954][  0]LogLoad: (Engine Initialization) Total time: 69.98 seconds
+[2023.06.03-07.33.01:954][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.03-07.33.02:062][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.03-07.33.02:230][  1]LogAssetRegistry: Asset discovery search completed in 42.2935 seconds
+[2023.06.03-07.33.02:298][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.06.03-07.33.02:586][  2]LogSlate: Took 0.017910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.03-07.33.03:056][ 14]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.03-07.33.03:064][ 14]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/UI_MainMenu.UI_MainMenu
+[2023.06.03-07.33.05:661][ 14]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2023.06.03-07.33.06:974][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gamemode/Fridge.Fridge
+[2023.06.03-07.33.07:524][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2023.06.03-07.33.07:786][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerCamera.BP_PlayerCamera
+[2023.06.03-07.33.08:058][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FlickeringTV.FlickeringTV
+[2023.06.03-07.33.08:321][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MumLight.MumLight
+[2023.06.03-07.33.08:884][ 14]LogSlate: Took 0.020715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.03-07.33.09:212][ 15]LogSlate: Took 0.006919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.03-07.33.18:307][632]LogSlate: Window 'UI_MainMenu' being destroyed
+[2023.06.03-07.33.34:843][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.06.03-07.33.36:412][ 79]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.33.36:524][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.03-07.33.36:551][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.33.36:578][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.33.36:604][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.33.36:631][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.33.36:664][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.03-07.33.36:690][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.33.59:116][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.03-07.34.00:498][190]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.34.00:564][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.06.03-07.34.00:591][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.00:617][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.34.00:644][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.34.00:670][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.00:696][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.00:722][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.00:749][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.00:777][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.00:803][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.03-07.34.00:830][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.00:855][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.00:882][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.03-07.34.00:908][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.00:934][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.34.00:961][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.34.00:987][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.34.01:014][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.01:039][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.34.01:064][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.01:091][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.34.01:117][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.01:143][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.01:169][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.34.01:197][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.03-07.34.01:237][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.06.03-07.34.01:263][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.14:756][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.03-07.34.15:929][411]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.34.15:992][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.06.03-07.34.16:018][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.16:045][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.16:071][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.16:097][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.16:123][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.16:150][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.16:175][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.16:204][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.34.16:231][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.16:257][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.34.16:283][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.03-07.34.16:311][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.16:337][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.34.16:367][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.06.03-07.34.16:393][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.45:645][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.06.03-07.34.49:664][165]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.34.49:748][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.06.03-07.34.49:775][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.49:801][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.34.49:828][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.49:854][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.49:882][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.49:907][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.34.49:936][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.34.49:963][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.34.49:990][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.50:017][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.50:043][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.50:070][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.50:096][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.50:121][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.50:151][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.34.50:178][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.50:204][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.50:231][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.34.50:259][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.50:284][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.34.50:310][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.34.50:337][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.50:363][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.34.50:390][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.34.50:416][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.34.50:442][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.34.50:469][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.34.50:495][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.34.50:523][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.34.50:551][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.34.50:581][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.06.03-07.34.50:607][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.36.00:929][ 48]LogMaterial: Display: Missing cached shadermap for M_Flame in PCD3D_SM5, Default, SM5 (DDC key hash: 4C8F462F203F46D42E713B4FCE96A2FDE26B364F), compiling. 
+[2023.06.03-07.36.01:107][ 48]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 14
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 13
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 12
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 11
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 10
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 9
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 8
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 7
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 6
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 5
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 4
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 3
+[2023.06.03-07.36.01:898][ 48]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 2
+[2023.06.03-07.36.01:899][ 48]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 1
+[2023.06.03-07.36.01:899][ 48]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.36.01:899][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.06.03-07.36.03:454][ 48]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.36.03:540][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.03-07.36.03:567][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.03-07.36.03:599][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.36.03:629][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.06.03-07.36.03:657][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.36.03:684][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.36.03:711][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.36.03:742][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.36.03:771][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.36.03:802][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.06.03-07.36.03:828][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.36.03:941][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.03-07.36.03:941][ 48]LogShaderCompilers: Display: Total job queries 14, among them cache hits 0 (0.00%)
+[2023.06.03-07.36.03:941][ 48]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 13 distinct outputs (92.86%)
+[2023.06.03-07.36.03:941][ 48]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.06.03-07.36.03:941][ 48]LogShaderCompilers: Display: ================================================
+[2023.06.03-07.36.06:054][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.36.09:751][253]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.36.11:933][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.36.24:049][454]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.36.32:679][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.06.03-07.36.36:110][241]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.36.40:643][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.03-07.36.47:676][675]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.37.02:713][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.03-07.37.06:628][143]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.37.09:499][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.37.10:677][414]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.37.10:735][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.03-07.37.10:762][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.37.10:788][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.37.10:815][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.37.10:842][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.37.10:868][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.37.10:894][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.37.10:922][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.37.10:949][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.37.10:975][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.37.11:002][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.37.11:029][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.37.11:054][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.37.11:082][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.37.11:107][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.37.11:133][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.37.11:164][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.37.11:194][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.03-07.37.11:220][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.37.15:604][832]LogMaterial: Display: Missing cached shadermap for M_Curtain in PCD3D_SM5, Default, SM5 (DDC key hash: 7839710B1131989224E1D61DE42571CEAD6AAF13), compiling. 
+[2023.06.03-07.37.15:644][832]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2023.06.03-07.37.15:645][832]LogMaterial: Display: Missing cached shadermap for MI_CurtainKitchen in PCD3D_SM5, Default, SM5 (DDC key hash: 408306878ADB3A502AF06593F517A8FD4097C673), compiling. 
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 25
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 23
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 21
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 19
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 17
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 15
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 13
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 11
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 9
+[2023.06.03-07.37.15:659][832]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 7
+[2023.06.03-07.37.15:660][832]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.06.03-07.37.15:660][832]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 3
+[2023.06.03-07.37.15:660][832]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 1
+[2023.06.03-07.37.15:660][832]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.15:660][832]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2023.06.03-07.37.16:467][832]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 25
+[2023.06.03-07.37.16:467][832]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 23
+[2023.06.03-07.37.16:467][832]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 21
+[2023.06.03-07.37.16:467][832]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.16:468][832]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2023.06.03-07.37.17:055][832]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 19
+[2023.06.03-07.37.17:055][832]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:243][832]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 17
+[2023.06.03-07.37.17:244][832]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:245][832]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 15
+[2023.06.03-07.37.17:245][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:273][832]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 14
+[2023.06.03-07.37.17:273][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:365][832]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 13
+[2023.06.03-07.37.17:365][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:402][832]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 12
+[2023.06.03-07.37.17:402][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:538][832]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 11
+[2023.06.03-07.37.17:538][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:583][832]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 10
+[2023.06.03-07.37.17:583][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:625][832]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.06.03-07.37.17:625][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:699][832]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 8
+[2023.06.03-07.37.17:699][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:777][832]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 7
+[2023.06.03-07.37.17:777][832]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 6
+[2023.06.03-07.37.17:778][832]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:888][832]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 5
+[2023.06.03-07.37.17:888][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.17:907][832]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.37.18:057][832]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 4
+[2023.06.03-07.37.18:058][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.18:069][832]LogUObjectHash: Compacting FUObjectHashTables data took   9.90ms
+[2023.06.03-07.37.18:153][832]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 3
+[2023.06.03-07.37.18:154][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.18:154][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.06.03-07.37.18:231][832]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 2
+[2023.06.03-07.37.18:232][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.18:232][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.06.03-07.37.18:303][832]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2023.06.03-07.37.18:303][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.37.18:304][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.06.03-07.37.18:381][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.06.03-07.37.18:453][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.06.03-07.37.18:534][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.06.03-07.37.18:598][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.06.03-07.37.18:649][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.06.03-07.37.18:692][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.06.03-07.37.18:739][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.06.03-07.37.18:783][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.03-07.37.18:820][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.37.18:850][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.37.18:882][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.37.18:912][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.37.18:942][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.37.18:975][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.03-07.37.19:002][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.37.26:443][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.06.03-07.37.31:091][459]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.37.48:868][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.03-07.39.21:721][247]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.40.32:372][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.06.03-07.40.40:041][141]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.40.40:160][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.06.03-07.40.40:192][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.40:222][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:250][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:276][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.40:303][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.40:328][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.40:359][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.40:387][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.40:414][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:439][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:466][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.40:492][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.40:520][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.40:547][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:576][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.40:603][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.40:630][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.40:657][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:684][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.40:711][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.40:739][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.40:765][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:795][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.40:821][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.40:848][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.40:875][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.40:901][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.40:928][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.40:955][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.40:981][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.41:012][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.41:039][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.41:066][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.41:093][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.41:121][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.41:148][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.41:174][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.41:201][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.41:231][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.41:259][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.41:285][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.41:312][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.41:341][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.41:369][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.41:395][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.41:423][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.40.41:453][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.06.03-07.40.41:480][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.41:508][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.41:534][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.41:561][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.41:588][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.41:615][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.41:642][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.41:671][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.41:698][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.41:725][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.03-07.40.41:752][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.41:778][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.41:805][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.41:831][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.41:858][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.06.03-07.40.41:885][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.41:911][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.41:938][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.41:965][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.41:992][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:019][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.42:045][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.42:072][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.42:099][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.42:126][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:153][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.42:180][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.42:207][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.42:235][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.42:261][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.42:288][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.42:315][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.42:341][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.42:369][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.42:395][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.42:422][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.42:448][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.42:475][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.42:502][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.42:530][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.06.03-07.40.42:557][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.40.42:585][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.42:612][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:639][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.06.03-07.40.42:667][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.42:692][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.42:720][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:749][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.06.03-07.40.42:776][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:802][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:828][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.42:855][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.42:882][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.42:909][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.42:936][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.42:963][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.42:990][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.43:017][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.43:043][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.06.03-07.40.43:070][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.43:097][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.43:123][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.43:150][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.43:178][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.43:205][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.43:231][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.43:257][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.43:285][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.43:311][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.43:338][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.43:367][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.43:396][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.43:422][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.43:448][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.43:475][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.43:501][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.43:528][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.06.03-07.40.43:555][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.43:582][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.43:609][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.43:636][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.06.03-07.40.43:664][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.43:692][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.43:719][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.40.43:746][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.06.03-07.40.43:773][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.43:800][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.43:829][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.43:856][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.43:883][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.43:909][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.43:938][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.43:964][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.43:990][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.44:017][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.44:046][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.44:074][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.44:100][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.44:127][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.06.03-07.40.44:154][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.44:181][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.44:208][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.44:235][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.44:262][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.44:290][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.44:319][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.44:346][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.44:373][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.44:400][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.44:427][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.06.03-07.40.44:454][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.44:482][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.44:509][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.44:538][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.44:564][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.44:591][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.44:619][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.44:645][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.44:672][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.06.03-07.40.44:700][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.44:727][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.44:755][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.44:782][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.03-07.40.44:809][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.44:835][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.44:861][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.44:888][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.44:915][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.44:941][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.44:968][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.44:996][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.45:024][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.45:050][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:077][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.45:104][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.45:131][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:158][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:185][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:212][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:239][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.45:265][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:291][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:318][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:345][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:372][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.45:398][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.45:427][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.45:455][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.45:482][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:509][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.45:537][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:565][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.45:592][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.45:618][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.06.03-07.40.45:645][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.45:672][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.45:699][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.45:727][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.03-07.40.45:754][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:781][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.45:808][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.45:836][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.06.03-07.40.45:863][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.45:889][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.45:916][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.45:944][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.45:970][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.45:998][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.46:025][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.46:052][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.46:078][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:105][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.46:132][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.46:159][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.46:186][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.06.03-07.40.46:214][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.46:240][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.46:266][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.46:292][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:320][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:347][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.46:374][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.03-07.40.46:401][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.46:427][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:454][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:481][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.46:508][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.46:535][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:563][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.46:590][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.40.46:618][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.46:646][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.46:673][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.46:700][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.46:728][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.06.03-07.40.46:756][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.46:783][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.46:810][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.46:836][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.46:864][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.46:891][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.46:919][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.46:946][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.46:973][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:000][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:028][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.03-07.40.47:055][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.47:083][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.47:109][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.47:136][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:162][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:189][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.47:217][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:245][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.47:271][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.47:299][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.47:325][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.47:352][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.47:379][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.47:406][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:433][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:460][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.47:486][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.47:513][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.47:540][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:567][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:595][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:622][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.47:650][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:678][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.47:706][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.47:734][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:761][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.47:787][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.47:813][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:839][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.47:866][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.47:894][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.47:921][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.47:949][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.47:976][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:002][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.03-07.40.48:028][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.48:055][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.48:082][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.48:108][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.48:135][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.48:164][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:191][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:217][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.03-07.40.48:245][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.48:272][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.48:298][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.03-07.40.48:325][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.06.03-07.40.48:352][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:382][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:409][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.48:436][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.40.48:463][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:489][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:516][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.48:543][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.40.48:570][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.40.48:597][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.48:623][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.03-07.40.48:651][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.03-07.40.48:678][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.03-07.40.48:705][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.03-07.40.48:734][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.03-07.40.48:760][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.03-07.40.48:786][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.03-07.40.48:814][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.03-07.40.48:847][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.03-07.40.48:873][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.51:598][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.03-07.40.53:484][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.03-07.40.53:510][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.03-07.40.53:536][656]LogSavePackage: Moving '../../../../../GitRepositories/ProjectC/Project/Saved/MainLevel36E4589549DB75EE1F901F8B6E46A13A.tmp' to '../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.06.03-07.40.53:546][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.06.03-07.40.53:595][656]LogSavePackage: Moving '../../../../../GitRepositories/ProjectC/Project/Saved/MainLevel_BuiltDataF1E6DBAC4E28DE04F8D8389BD006ED6A.tmp' to '../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.06.03-07.40.53:605][656]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.03-07.40.53:605][656]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.06.03-07.40.53:605][656]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.06.03-07.41.10:937][453]LogMaterial: Display: Missing cached shadermap for M_Decal in PCD3D_SM5, Default, SM5 (DDC key hash: 9ABE95D7E65E52FA74A15BC25A7EC6032E7ECB64), compiling. 
+[2023.06.03-07.41.10:976][453]LogShaderCompilers: Display: Submitted 35 shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 35
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 32
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 29
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 26
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 23
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 20
+[2023.06.03-07.41.12:117][453]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 17
+[2023.06.03-07.41.12:118][453]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 14
+[2023.06.03-07.41.12:118][453]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 11
+[2023.06.03-07.41.12:118][453]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 8
+[2023.06.03-07.41.12:118][453]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.06.03-07.41.12:118][453]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 2
+[2023.06.03-07.41.12:118][453]LogShaderCompilers: Display: Started 35 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:118][453]LogMaterial: Display: Missing cached shadermap for M_Sky in PCD3D_SM5, Default, SM5 (DDC key hash: C2DC503DFE9F12A73D97C35F1D704845DAC81103), compiling. 
+[2023.06.03-07.41.12:136][453]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:199][453]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 6
+[2023.06.03-07.41.12:199][453]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 5
+[2023.06.03-07.41.12:199][453]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 4
+[2023.06.03-07.41.12:199][453]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 3
+[2023.06.03-07.41.12:200][453]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:200][453]LogMaterial: Display: Missing cached shadermap for M_WaterFall in PCD3D_SM5, Default, SM5 (DDC key hash: 339D6FB2689FE9683D7F048F270E991CA9D6FFBD), compiling. 
+[2023.06.03-07.41.12:253][453]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:352][453]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 36
+[2023.06.03-07.41.12:352][453]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:352][453]LogMaterial: Display: Missing cached shadermap for M_White2Alpha in PCD3D_SM5, Default, SM5 (DDC key hash: 17A677FF04A555D3671FD8F926D3F8B11C3C960B), compiling. 
+[2023.06.03-07.41.12:380][453]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Low' priority
+[2023.06.03-07.41.12:385][453]LogMaterial: Display: Missing cached shadermap for M_White2Black in PCD3D_SM5, Default, SM5 (DDC key hash: 1898B0DC1F467428921D7D47CF04C636D46BE359), compiling. 
+[2023.06.03-07.41.12:394][453]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 65
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 60
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 56
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 52
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 48
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 44
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 41
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 38
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 35
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 32
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 29
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 27
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:382][453]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 25
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 23
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 21
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 19
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 17
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 15
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 14
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 13
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 12
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 11
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 10
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 9
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 8
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 7
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 6
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 5
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 3
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 2
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.06.03-07.41.23:383][453]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:383][453]LogTexture: Display: Building textures: T_Carpet11 (BGRA8, 642X999)
+[2023.06.03-07.41.23:383][453]LogTexture: Display: Building textures: T_Pots_plastic_Brown_Normal (OODLE_BC5, 2048X2048)
+[2023.06.03-07.41.23:383][453]LogTexture: Display: Building textures: T_Pots_plastic_Brown_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:383][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:383][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:383][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:383][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:383][453]LogTexture: Display: Building textures: T_Pots_plastic_Brown_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:383][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:383][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_plastic_Red_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_plastic_Red_Normal (OODLE_BC5, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_plastic_Red_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_plastic_Normal (OODLE_BC5, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_plastic_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_plastic_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_Wood_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_Wood_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTexture: Display: Building textures: T_Pots_Wood_Normal (OODLE_BC5, 2048X2048)
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.03-07.41.23:384][453]LogMaterial: Display: Missing cached shadermap for MI_WaterFall in PCD3D_SM5, Default, SM5 (DDC key hash: 1480FA892454399211004358E8E0FB98E1ABF1C6), compiling. 
+[2023.06.03-07.41.23:399][453]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 34
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 31
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 28
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 25
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 22
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 19
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 16
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 13
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 10
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 7
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 4
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2023.06.03-07.41.23:488][453]LogShaderCompilers: Display: Started 34 'Local' shader compile jobs with 'Low' priority
+[2023.06.03-07.41.23:488][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.06.03-07.41.30:199][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.03-07.41.30:200][453]LogShaderCompilers: Display: Total job queries 205, among them cache hits 0 (0.00%)
+[2023.06.03-07.41.30:200][453]LogShaderCompilers: Display: Tracking 205 distinct input hashes that result in 118 distinct outputs (57.56%)
+[2023.06.03-07.41.30:200][453]LogShaderCompilers: Display: RAM used: 0.57 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2023.06.03-07.41.30:200][453]LogShaderCompilers: Display: ================================================
+[2023.06.03-07.42.34:870][453]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.03-07.42.37:630][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.03-07.42.37:657][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.03-07.42.37:684][717]LogSavePackage: Moving '../../../../../GitRepositories/ProjectC/Project/Saved/MainLevelD02E4B0D49D7EAF91CC8FBB857809889.tmp' to '../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel.umap'
+[2023.06.03-07.42.37:694][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.06.03-07.42.37:710][717]LogSavePackage: Moving '../../../../../GitRepositories/ProjectC/Project/Saved/MainLevel_BuiltDataF09C668047E8B989380B2FABCAF8FAD7.tmp' to '../../../../../GitRepositories/ProjectC/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.06.03-07.42.37:722][717]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.03-07.42.37:722][717]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.06.03-07.42.37:722][717]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
