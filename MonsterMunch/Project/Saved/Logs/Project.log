@@ -1946,3 +1946,209 @@ Script Stack (0 frames):
 [2023.06.05-04.22.28:640][ 96]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
 [2023.06.05-04.22.28:640][ 96]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
 [2023.06.05-04.27.53:336][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.06.05-04.50.50:934][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.06.05-04.50.50:960][134]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MainMenu.MainMenu
+[2023.06.05-04.50.50:960][134]Cmd: MAP LOAD FILE="../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.05-04.50.50:960][134]LightingResults: New page: Lighting Build
+[2023.06.05-04.50.50:960][134]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.06.05-04.50.50:960][134]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Child_2.PaperSprite)
+[2023.06.05-04.50.50:960][134]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Father1_2.PaperSprite)
+[2023.06.05-04.50.50:960][134]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Mother1_2.PaperSprite)
+[2023.06.05-04.50.50:961][134]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Player_5.Monster)
+[2023.06.05-04.50.50:975][134]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-04.50.50:975][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-04.50.51:015][134]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-04.50.51:015][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-04.50.51:015][134]MapCheck: New page: Map Check
+[2023.06.05-04.50.51:015][134]LightingResults: New page: Lighting Build
+[2023.06.05-04.50.51:053][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-04.50.51:064][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.06.05-04.50.51:065][134]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.06.05-04.50.51:089][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.05-04.50.51:089][134]LogAIModule: Creating AISystem for world MainMenu
+[2023.06.05-04.50.51:133][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.06.05-04.50.51:143][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.05-04.50.51:143][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2023.06.05-04.50.51:143][134]LogFileHelpers: Loading map 'MainMenu' took 0.183
+[2023.06.05-04.50.52:456][281]LogTemp: Repeating last play command: Standalone Game
+[2023.06.05-04.50.52:503][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.06.05-05.47.07:751][983]MapCheck: New page: Map Check
+[2023.06.05-05.47.07:765][983]LightingResults: New page: Lighting Build - 6 Jun 2023, 1:47:07 am
+[2023.06.05-05.47.07:808][983]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.06.05-05.47.07:850][983]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.06.05-05.47.07:860][983]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.06.05-05.47.08:376][983]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.06.05-05.47.08:376][983]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15768
+[2023.06.05-05.47.15:437][983]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.06.05-05.47.15:437][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.06.05-05.47.15:437][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.06.05-05.47.15:437][983]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.06.05-05.47.15:437][983]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.06.05-05.47.15:437][983]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.06.05-05.47.15:515][983]LogEditorBuildUtils: Build time 0:07
+[2023.06.05-05.47.15:522][983]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.05-05.47.15:522][983]LogShaderCompilers: Display: Total job queries 18, among them cache hits 4 (22.22%)
+[2023.06.05-05.47.15:522][983]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 13 distinct outputs (92.86%)
+[2023.06.05-05.47.15:522][983]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.06.05-05.47.15:522][983]LogShaderCompilers: Display: ================================================
+[2023.06.05-05.47.15:596][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.06.05-05.47.16:863][ 48]Job is a success!
+[2023.06.05-05.47.17:021][ 50]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.06.05-05.47.17:021][ 50]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:      Bricks at depth
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:      Bricks in each level
+[2023.06.05-05.47.17:022][ 50]LogVolumetricLightmapImport:          MainMenu 			 1 bricks 	 100.0% (Persistent Level)
+[2023.06.05-05.47.17:078][ 50]Lightmass on SYD-6662B6: 668 ms total, 213 ms importing, 26 ms setup, 18 ms photons, 344 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 2.40 sec total, 0 ms processing.
+[2023.06.05-05.47.17:078][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.06.05-05.47.17:151][ 50]LogStaticLightingSystem: Illumination: 9.28 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2023.06.05-05.47.17:151][ 50]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.06.05-05.47.17:151][ 50]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.06.05-05.47.17:442][ 50]DumpUnbuiltLightIteractions
+[2023.06.05-05.47.17:442][ 50]Lights with unbuilt interactions: 0
+[2023.06.05-05.47.17:442][ 50]
+[2023.06.05-05.47.17:442][ 50]Primitives with unbuilt interactions: 0
+[2023.06.05-05.47.17:513][ 51]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.06.05-05.47.17:514][ 51]MapCheck: New page: MainMenu - 6 Jun 2023, 1:47:17 am
+[2023.06.05-05.47.17:514][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.349ms to complete.
+[2023.06.05-05.47.18:844][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.06.05-05.47.20:070][206]LogSlate: Window 'Save Content' being destroyed
+[2023.06.05-05.47.20:142][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.06.05-05.47.20:151][206]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Saved/MainMenuBF8E825A4DFB55E69F591493E9875F68.tmp' to '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainMenu.umap'
+[2023.06.05-05.47.20:164][206]LogFileHelpers: Saving map 'MainMenu' took 0.060
+[2023.06.05-05.47.20:164][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainMenu_BuiltData.uasset" SILENT=true
+[2023.06.05-05.47.20:165][206]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Saved/MainMenu_BuiltDataB37DA41440BB2D1321E95DACF7ACD8C1.tmp' to '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainMenu_BuiltData.uasset'
+[2023.06.05-05.47.20:266][206]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MainLevel.MainLevel
+[2023.06.05-05.47.20:266][206]Cmd: MAP LOAD FILE="../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.05-05.47.20:266][206]LightingResults: New page: Lighting Build
+[2023.06.05-05.47.20:266][206]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.06.05-05.47.20:301][206]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-05.47.20:301][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-05.47.20:301][206]MapCheck: New page: Map Check
+[2023.06.05-05.47.20:301][206]LightingResults: New page: Lighting Build
+[2023.06.05-05.47.20:341][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-05.47.20:346][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.06.05-05.47.20:346][206]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.06.05-05.47.20:466][206]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.05-05.47.20:466][206]LogAIModule: Creating AISystem for world MainLevel
+[2023.06.05-05.47.20:515][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.06.05-05.47.20:526][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.05-05.47.20:526][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2023.06.05-05.47.20:526][206]LogFileHelpers: Loading map 'MainLevel' took 0.259
+[2023.06.05-05.47.20:554][206]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.05-05.47.20:554][206]LogContentValidation: Display: Validating World /Game/Level/MainMenu.MainMenu
+[2023.06.05-05.47.20:562][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainMenu_BuiltData.MainMenu_BuiltData
+[2023.06.05-05.47.21:798][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Carpet6)
+[2023.06.05-05.47.23:801][570]MapCheck: New page: Map Check
+[2023.06.05-05.47.23:813][570]Cmd: MAP REBUILD ALLVISIBLE
+[2023.06.05-05.47.23:813][570]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.06.05-05.47.23:925][570]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Child_2.PaperSprite)
+[2023.06.05-05.47.23:925][570]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Father1_2.PaperSprite)
+[2023.06.05-05.47.23:925][570]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Mother1_2.PaperSprite)
+[2023.06.05-05.47.23:925][570]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Player_5.Monster)
+[2023.06.05-05.47.23:925][570]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=false
+[2023.06.05-05.47.23:942][570]LightingResults: New page: Lighting Build - 6 Jun 2023, 1:47:23 am
+[2023.06.05-05.47.23:948][570]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.06.05-05.47.23:952][570]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.06.05-05.47.23:952][570]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.06.05-05.47.23:952][570]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.06.05-05.47.23:952][570]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15768
+[2023.06.05-05.47.28:641][570]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.06.05-05.47.28:641][570]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.06.05-05.47.28:641][570]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.06.05-05.47.28:641][570]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.06.05-05.47.28:641][570]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.06.05-05.47.28:641][570]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.06.05-05.47.28:729][570]LogEditorBuildUtils: Build time 0:04
+[2023.06.05-05.47.29:047][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.06.05-05.47.31:271][725]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.31:271][725]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.31:483][742]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.31:483][742]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.31:606][751]LightingResults: Warning: SM_CupboardBody Object has overlapping UVs.
+[2023.06.05-05.47.31:606][751]LightingResults: SM_CupboardBody Lightmap UV are overlapping by 9.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.31:708][759]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.31:708][759]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:105][790]LightingResults: Warning: SM_Fridge_polySurface12 Object has overlapping UVs.
+[2023.06.05-05.47.32:105][790]LightingResults: SM_Fridge_polySurface12 Lightmap UV are overlapping by 5.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:141][793]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.32:141][793]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:175][796]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.32:187][797]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:210][799]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.32:210][799]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:244][801]LightingResults: Warning: SM_OvenBody Object has overlapping UVs.
+[2023.06.05-05.47.32:244][801]LightingResults: SM_OvenBody Lightmap UV are overlapping by 3.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:409][814]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.32:409][814]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:467][818]LightingResults: Warning: SM_Apples Object has overlapping UVs.
+[2023.06.05-05.47.32:467][818]LightingResults: SM_Apples Lightmap UV are overlapping by 33.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.06.05-05.47.32:563][825]Job is a success!
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:      Bricks at depth
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:      Bricks in each level
+[2023.06.05-05.47.32:709][826]LogVolumetricLightmapImport:          MainLevel 			 20 bricks 	 100.0% (Persistent Level)
+[2023.06.05-05.47.32:864][826]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.06.05-05.47.32:864][826]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.06.05-05.47.32:864][826]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 128X128)
+[2023.06.05-05.47.32:864][826]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.06.05-05.47.32:864][826]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.05-05.47.32:864][826]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 128X128)
+[2023.06.05-05.47.32:964][826]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2023.06.05-05.47.32:964][826]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X64)
+[2023.06.05-05.47.32:964][826]Lightmass on SYD-6662B6: 3.26 sec total, 671 ms importing, 58 ms setup, 435 ms photons, 2.02 sec processing, 0 ms extra exporting [72/72 mappings]. Threads: 14.1 sec total, 9.09 sec processing.
+[2023.06.05-05.47.32:973][826]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 44 meshes in 3 LightmapResourceClusters (14.7 Meshes per cluster).
+[2023.06.05-05.47.33:025][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.06.05-05.47.33:099][826]LogStaticLightingSystem: Illumination: 9.07 sec (159 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2023.06.05-05.47.33:099][826]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.06.05-05.47.33:099][826]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.06.05-05.47.38:650][826]DumpUnbuiltLightIteractions
+[2023.06.05-05.47.38:650][826]Lights with unbuilt interactions: 0
+[2023.06.05-05.47.38:650][826]
+[2023.06.05-05.47.38:650][826]Primitives with unbuilt interactions: 0
+[2023.06.05-05.47.38:702][827]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.06.05-05.47.38:702][827]MapCheck: New page: MainLevel - 6 Jun 2023, 1:47:38 am
+[2023.06.05-05.47.38:703][827]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.649ms to complete.
+[2023.06.05-05.47.45:270][348]LogSlate: Window 'Message Log' being destroyed
+[2023.06.05-05.47.45:276][348]LogSlate: Window 'Message Log' being destroyed
+[2023.06.05-05.47.48:231][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.06.05-05.47.48:296][683]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Saved/MainLevel019DEBC943A027138414ADAD788B0D9F.tmp' to '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainLevel.umap'
+[2023.06.05-05.47.48:310][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2023.06.05-05.47.48:369][683]LogSavePackage: Moving '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Saved/MainLevel_BuiltDataABFB69464BA1FD6D9C020EB37EE5FA50.tmp' to '../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainLevel_BuiltData.uasset'
+[2023.06.05-05.47.48:391][683]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.05-05.47.48:391][683]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.06.05-05.47.48:391][683]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2023.06.05-05.47.50:738][944]LogTemp: Repeating last play command: Standalone Game
+[2023.06.05-05.47.50:783][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.06.05-05.52.04:610][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.05-05.52.04:639][742]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MainMenu.MainMenu
+[2023.06.05-05.52.04:640][742]Cmd: MAP LOAD FILE="../../../../../../Users/S214666/GitRepos/ProjectCRepo/MonsterMunch/Project/Content/Level/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.05-05.52.04:640][742]LightingResults: New page: Lighting Build
+[2023.06.05-05.52.04:640][742]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.06.05-05.52.04:641][742]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Child_2.PaperSprite)
+[2023.06.05-05.52.04:641][742]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Father1_2.PaperSprite)
+[2023.06.05-05.52.04:641][742]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Mother1_2.PaperSprite)
+[2023.06.05-05.52.04:641][742]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Player_5.Monster)
+[2023.06.05-05.52.04:663][742]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.06.05-05.52.04:663][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.05-05.52.04:663][742]MapCheck: New page: Map Check
+[2023.06.05-05.52.04:663][742]LightingResults: New page: Lighting Build
+[2023.06.05-05.52.04:702][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.05-05.52.04:707][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.06.05-05.52.04:708][742]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.06.05-05.52.04:732][742]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.05-05.52.04:732][742]LogAIModule: Creating AISystem for world MainMenu
+[2023.06.05-05.52.04:774][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.06.05-05.52.04:785][742]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.05-05.52.04:785][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2023.06.05-05.52.04:785][742]LogFileHelpers: Loading map 'MainMenu' took 0.146
+[2023.06.05-05.52.05:774][850]LogTemp: Repeating last play command: Standalone Game
+[2023.06.05-05.52.05:817][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
